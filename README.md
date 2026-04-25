@@ -190,3 +190,7 @@ Per Klipy's [attribution guidelines](https://docs.klipy.com/attribution): use "S
 ## License
 
 MIT.
+
+## Stargazing
+
+[![Star History Chart](https://api.star-history.com/svg?repos=dansup/klipy-php&type=Date)](https://star-history.com/#dansup/klipy-php&Date)
