@@ -9,7 +9,7 @@ namespace Klipy\Resources;
  */
 class AiEmojis extends AbstractResource
 {
-    protected string $segment = 'ai-emojis';
+    protected string $segment = 'emojis';
 
     /**
      * Kick off an AI emoji generation job.
