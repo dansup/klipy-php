@@ -6,5 +6,5 @@ namespace Klipy\Resources;
 
 class Memes extends AbstractResource
 {
-    protected string $segment = 'memes';
+    protected string $segment = 'static-memes';
 }
